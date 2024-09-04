@@ -1,4 +1,4 @@
-# MVC-UI_Created_by_Eren_Sahin
+# .NET STANDART MVC 
 .Net Framework project created with MVC
 
 This was the first project that I developed for my MCSD course at "ARI BİLGİ Eğitim kurumkları" in Turkey, Istanbul.
